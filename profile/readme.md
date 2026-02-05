@@ -63,6 +63,6 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 59 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 60 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 61 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-62 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-63 | Vikashini K | [Github](https://github.com/vikakathir/leetcode-solutions) | [Leetcode](https://leetcode.com/u/VIKASHINIKATHIRESHKUMAR/) | ![](https://leetcard.jacoblin.cool/VIKASHINIKATHIRESHKUMAR)
+62 | Vikashini K | [Github](https://github.com/vikakathir/leetcode-solutions) | [Leetcode](https://leetcode.com/u/VIKASHINIKATHIRESHKUMAR/) | ![](https://leetcard.jacoblin.cool/VIKASHINIKATHIRESHKUMAR)
+63 | YUVARAJ M | [Github](https://github.com/24149063-sys/lcodetrackYuv) | [Leetcode](https://leetcode.com/u/yuvaraj534/) | ![](https://leetcard.jacoblin.cool/yuvaraj534)
 302 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
